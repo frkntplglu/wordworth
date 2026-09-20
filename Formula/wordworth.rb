@@ -1,7 +1,7 @@
 class Wordworth < Formula
   desc "Context-aware English vocabulary coach for the terminal"
-  homepage "https://github.com/furkantopaloglu/wordworth"
-  url "https://github.com/furkantopaloglu/wordworth/archive/refs/tags/v0.1.0.tar.gz"
+  homepage "https://github.com/frkntplglu/wordworth"
+  url "https://github.com/frkntplglu/wordworth/archive/refs/tags/v0.1.0.tar.gz"
   version "0.1.0"
 
   depends_on "bun"

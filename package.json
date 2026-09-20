@@ -1,7 +1,17 @@
 {
   "name": "wordworth",
   "version": "0.1.0",
-  "private": true,
+  "description": "Context-aware English vocabulary coaching in the terminal",
+  "private": false,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frkntplglu/wordworth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frkntplglu/wordworth/issues"
+  },
+  "homepage": "https://github.com/frkntplglu/wordworth#readme",
   "type": "module",
   "bin": {
     "wordworth": "./src/index.ts"
